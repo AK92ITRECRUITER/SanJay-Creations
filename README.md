@@ -1,11 +1,6 @@
-sanjay-creations/
-├── public/
-│   └── index.html
-├── src/
-│   ├── assets/         → Images, logo etc.
-│   ├── components/     → Navbar, Footer, ProductCard etc.
-│   ├── pages/          → Home, Products, Cart etc.
-│   ├── App.js
-│   └── index.js
-├── package.json
-└── README.md
+git init
+git remote add origin https://github.com/AK92ITRECRUITER/SanJay-Creations.git
+git add .
+git commit -m "Initial React App upload"
+git branch -M main
+git push -u origin main
